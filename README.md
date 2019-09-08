@@ -1,1 +1,1 @@
-# Experement-with-Network-performance-using-ping-and-traceroute-utilities.
+This assignment aims to develop experemental, data handling, presentation and analytical skills and understanding of the causes of network delays and how utilities, such as ping and traceroute, can be used to analyse network performance.
